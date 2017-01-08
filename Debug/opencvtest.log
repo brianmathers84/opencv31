@@ -1,0 +1,74 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\3rdparty\libjasper\libjasper.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\3rdparty\libjpeg\libjpeg.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\3rdparty\libpng\libpng.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\3rdparty\libtiff\libtiff.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\3rdparty\libwebp\libwebp.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\3rdparty\openexr\IlmImf.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\3rdparty\zlib\zlib.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\ALL_BUILD.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\apps\annotation\opencv_annotation.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\apps\createsamples\opencv_createsamples.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\apps\traincascade\opencv_traincascade.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\apps\version\opencv_version.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\apps\visualisation\opencv_visualisation.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\INSTALL.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\calib3d\opencv_calib3d.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\calib3d\opencv_perf_calib3d.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\calib3d\opencv_test_calib3d.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\core\opencv_core.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\core\opencv_perf_core.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\core\opencv_test_core.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\features2d\opencv_features2d.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\features2d\opencv_perf_features2d.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\features2d\opencv_test_features2d.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\flann\opencv_flann.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\flann\opencv_test_flann.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\highgui\opencv_highgui.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\highgui\opencv_test_highgui.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\imgcodecs\opencv_imgcodecs.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\imgcodecs\opencv_perf_imgcodecs.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\imgcodecs\opencv_test_imgcodecs.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\imgproc\opencv_imgproc.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\imgproc\opencv_perf_imgproc.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\imgproc\opencv_test_imgproc.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\ml\opencv_ml.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\ml\opencv_test_ml.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\objdetect\opencv_objdetect.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\objdetect\opencv_perf_objdetect.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\objdetect\opencv_test_objdetect.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\photo\opencv_perf_photo.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\photo\opencv_photo.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\photo\opencv_test_photo.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\shape\opencv_shape.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\shape\opencv_test_shape.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\stitching\opencv_perf_stitching.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\stitching\opencv_stitching.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\stitching\opencv_test_stitching.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\superres\opencv_perf_superres.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\superres\opencv_superres.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\superres\opencv_test_superres.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\ts\opencv_ts.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\videoio\opencv_perf_videoio.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\videoio\opencv_test_videoio.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\videoio\opencv_videoio.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\videostab\opencv_videostab.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\video\opencv_perf_video.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\video\opencv_test_video.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\modules\video\opencv_video.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\opencv_modules.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\opencv_perf_tests.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\opencv_tests.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\PACKAGE.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\RUN_TESTS.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\uninstall.vcxproj' does not exist.
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\build\ZERO_CHECK.vcxproj' does not exist.
+  stdafx.cpp
+  opencvtest.cpp
+c:\opencv31\opencvtest\opencvtest.cpp(138): warning C4101: 'faceCascade': unreferenced local variable
+opencvtest.obj : error LNK2019: unresolved external symbol "public: __thiscall cv::CascadeClassifier::CascadeClassifier(void)" (??0CascadeClassifier@cv@@QAE@XZ) referenced in function "struct CvRect __cdecl detectAndDisplay(class cv::Mat)" (?detectAndDisplay@@YA?AUCvRect@@VMat@cv@@@Z)
+opencvtest.obj : error LNK2019: unresolved external symbol "public: __thiscall cv::CascadeClassifier::~CascadeClassifier(void)" (??1CascadeClassifier@cv@@QAE@XZ) referenced in function "struct CvRect __cdecl detectAndDisplay(class cv::Mat)" (?detectAndDisplay@@YA?AUCvRect@@VMat@cv@@@Z)
+opencvtest.obj : error LNK2019: unresolved external symbol "public: bool __thiscall cv::CascadeClassifier::load(class cv::String const &)" (?load@CascadeClassifier@cv@@QAE_NABVString@2@@Z) referenced in function "struct CvRect __cdecl detectAndDisplay(class cv::Mat)" (?detectAndDisplay@@YA?AUCvRect@@VMat@cv@@@Z)
+opencvtest.obj : error LNK2019: unresolved external symbol "public: void __thiscall cv::CascadeClassifier::detectMultiScale(class cv::_InputArray const &,class std::vector<class cv::Rect_<int>,class std::allocator<class cv::Rect_<int> > > &,double,int,int,class cv::Size_<int>,class cv::Size_<int>)" (?detectMultiScale@CascadeClassifier@cv@@QAEXABV_InputArray@2@AAV?$vector@V?$Rect_@H@cv@@V?$allocator@V?$Rect_@H@cv@@@std@@@std@@NHHV?$Size_@H@2@2@Z) referenced in function "struct CvRect __cdecl detectAndDisplay(class cv::Mat)" (?detectAndDisplay@@YA?AUCvRect@@VMat@cv@@@Z)
+opencvtest.obj : error LNK2019: unresolved external symbol _cvHaarDetectObjects referenced in function "struct CvRect __cdecl detectFaceInImage(struct _IplImage *,struct CvHaarClassifierCascade *)" (?detectFaceInImage@@YA?AUCvRect@@PAU_IplImage@@PAUCvHaarClassifierCascade@@@Z)
+opencvtest.obj : error LNK2019: unresolved external symbol "struct cv::Ptr<class cv::face::BasicFaceRecognizer> __cdecl cv::face::createFisherFaceRecognizer(int,double)" (?createFisherFaceRecognizer@face@cv@@YA?AU?$Ptr@VBasicFaceRecognizer@face@cv@@@2@HN@Z) referenced in function "void __cdecl compare(class cv::Mat)" (?compare@@YAXVMat@cv@@@Z)
+C:\opencv31\opencvtest\Debug\opencvtest.exe : fatal error LNK1120: 6 unresolved externals
